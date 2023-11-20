@@ -8,9 +8,9 @@ export default function Tips() {
                             <address class="flex items-center mb-6 not-italic">
                                 <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white">
                                     <div>
-                                        <a href="#" rel="author" class="text-xl font-bold text-gray-900 dark:text-white">Jese Leos</a>
-                                        <p class="text-base text-gray-500 dark:text-gray-400">Graphic Designer, educator & CEO Flowbite</p>
-                                        <p class="text-base text-gray-500 dark:text-gray-400"><time pubdate datetime="2022-02-08" title="February 8th, 2022">Feb. 8, 2022</time></p>
+                                        <a href="#" rel="author" class="text-xl font-bold text-gray-900 dark:text-white">Gabriel Vinicios</a>
+                                        <p class="text-base text-gray-500 dark:text-gray-400">Developer & CTO</p>
+                                        <p class="text-base text-gray-500 dark:text-gray-400"><time pubdate datetime="2022-02-08" title="February 8th, 2022">Nov. 19, 2023</time></p>
                                     </div>
                                 </div>
                             </address>
