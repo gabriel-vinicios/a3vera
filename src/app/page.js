@@ -16,10 +16,8 @@ export default function Home() {
                         <h1 class="font-roboto-slab text-4xl sm:text-6xl text-red-400 leading-tight mt-4">We help you <br />to teach.</h1>
 
                         <div class="max-w-md">
-                            <p class="font-source-sans-pro text-indigo-500 mt-6 text-lg">In AI Learn, we help you to understand the world nowadays, and how to use Artificial Intelligence in your job.</p>
+                            <p class="font-source-sans-pro text-indigo-500 mt-6 text-lg">In AI Learn, we help you, the Teacher, to understand the world nowadays, and how to use Artificial Intelligence in your job.</p>
                         </div>
-
-                        <a href="#" class="block bg-indigo-500 hover:bg-indigo-400 py-2 px-4 rounded-full text-sm font-mitr text-white uppercase mt-10">Get started</a>
                     </div>
 
                 </div>
@@ -32,7 +30,7 @@ export default function Home() {
                         <div class="relative z-10 flex flex-col mt-8 ml-6">
                             <h4 class="font-bold leading-none text-gray-400 uppercase font-xs">About Us</h4>
                             <p class="mt-2 text-3xl leading-none text-gray-800">Take a look about our Team!</p>
-                            <a href="#" class="mt-2 text-blue-500">See more</a>
+                            <Link href="/about-us" class="mt-2 text-blue-500">See more</Link>
                         </div>
                     </div>
                     <div class="relative sm:w-1/3">
@@ -40,7 +38,7 @@ export default function Home() {
                         <div class="relative z-10 flex flex-col mt-8 ml-6">
                             <h4 class="font-bold leading-none text-gray-400 uppercase font-xs">Content</h4>
                             <p class="mt-2 text-3xl leading-none text-gray-800">See our articles in how to use AI in your job!</p>
-                            <a href="#" class="mt-2 text-blue-500">See more</a>
+                            <Link href="/content" class="mt-2 text-blue-500">See more</Link>
                         </div>
                     </div>
                     <div class="relative sm:w-1/3">
@@ -48,7 +46,7 @@ export default function Home() {
                         <div class="relative z-10 flex flex-col mt-8 ml-6">
                             <h4 class="font-bold leading-none text-gray-400 uppercase font-xs">Tips</h4>
                             <p class="mt-2 text-3xl leading-none text-gray-800">General tips in having what your AI need to say!</p>
-                            <a href="#" class="mt-2 text-blue-500">See more</a>
+                            <Link href="/tips" class="mt-2 text-blue-500">See more</Link>
                         </div>
                     </div>
                 </div>

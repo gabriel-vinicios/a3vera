@@ -30,16 +30,16 @@ export default function RootLayout({ children }) {
                     </div>
     
                     <div class="hidden md:flex items-center">
-                        <a class="text-sm uppercase mx-3 text-red-400 cursor-pointer hover:text-indigo-600">About Us</a>
-                        <a class="text-sm uppercase mx-3 text-red-400 cursor-pointer hover:text-indigo-600">Content</a>
-                        <a class="text-sm uppercase mx-3 text-red-400 cursor-pointer hover:text-indigo-600">Tips</a>
+                        <a href='/about-us' class="text-sm uppercase mx-3 text-red-400 cursor-pointer hover:text-indigo-600">About Us</a>
+                        <a href='/content' class="text-sm uppercase mx-3 text-red-400 cursor-pointer hover:text-indigo-600">Content</a>
+                        <a href='/tips' class="text-sm uppercase mx-3 text-red-400 cursor-pointer hover:text-indigo-600">Tips</a>
                     </div>
                 </div>
     
                 <div x-show="open === true" class="md:hidden flex flex-col w-full z-40 bg-indigo-600 rounded mt-4 py-2 overflow-hidden">
-                    <a class="font-mitr text-sm uppercase text-red-400 py-2 px-2 hover:bg-indigo-500">About Us</a>
-                    <a class="font-mitr text-sm uppercase text-red-400 py-2 px-2 hover:bg-indigo-500">Content</a>
-                    <a class="font-mitr text-sm uppercase text-red-400 py-2 px-2 hover:bg-indigo-500">Tips</a>
+                    <a href='/about-us' class="font-mitr text-sm uppercase text-red-400 py-2 px-2 hover:bg-indigo-500">About Us</a>
+                    <a href='/content' class="font-mitr text-sm uppercase text-red-400 py-2 px-2 hover:bg-indigo-500">Content</a>
+                    <a href='/tips' class="font-mitr text-sm uppercase text-red-400 py-2 px-2 hover:bg-indigo-500">Tips</a>
                 </div>
             </nav>
         </header>
