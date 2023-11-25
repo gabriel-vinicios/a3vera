@@ -16,7 +16,7 @@ export default function Tips() {
                             </address>
                             <h1 className="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">General Tips: AI & Me</h1>
                         </header>
-                        <p className="lead">
+                        <p className="lead dark:text-white">
                             Teachers can leverage AI in various ways to enhance the learning experience for their students. Here are some general tips on how teachers can use AI:
                             <br />
                             1. <strong>Personalized Learning:</strong>

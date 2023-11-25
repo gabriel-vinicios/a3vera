@@ -26,7 +26,7 @@ export default function Page(){
                         </address>
                         <h1 className="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">{filteredPost.title}</h1>
                     </header>
-                    <p className="lead" dangerouslySetInnerHTML={{__html:filteredPost?.author?.content}}/>
+                    <p className="lead dark:text-white" dangerouslySetInnerHTML={{__html:filteredPost?.author?.content}}/>
                         
                 </article>
             </div>
