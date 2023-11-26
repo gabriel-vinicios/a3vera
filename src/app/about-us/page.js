@@ -2,23 +2,23 @@ export default function AboutUs() {
     const people = [
         {
             name: 'Gabriel Vinicios',
-            role: 'Developer / CTO',
+            role: 'Computer Science',
         },
         {
             name: 'Mateus Sousa da Paixão',
-            role: 'Founder / CEO',
+            role: 'Computer Science',
         },
         {
             name: 'Felipe Murauskas Pascoinelli',
-            role: 'Marketing / CMO',
+            role: 'Computer Science',
         },
         {
             name: 'Patrick da Silva Lara',
-            role: 'Designer / CDO',
+            role: 'Computer Science',
         },
         {
             name: 'Ramon Barbosa Bouzon',
-            role: 'Researcher / CRO',
+            role: 'Computer Science',
         },
         
     ]

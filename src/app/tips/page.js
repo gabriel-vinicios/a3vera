@@ -9,7 +9,7 @@ export default function Tips() {
                                 <div className="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white">
                                     <div>
                                         <a href="#" rel="author" className="text-xl font-bold text-gray-900 dark:text-white">Gabriel Vinicios</a>
-                                        <p className="text-base text-gray-500 dark:text-gray-400">Developer & CTO</p>
+                                        <p className="text-base text-gray-500 dark:text-gray-400">Computer Science</p>
                                         <p className="text-base text-gray-500 dark:text-gray-400"><time pubdate='true' dateTime="2022-02-08" title="February 8th, 2022">Nov. 19, 2023</time></p>
                                     </div>
                                 </div>
