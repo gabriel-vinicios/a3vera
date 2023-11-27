@@ -32,6 +32,7 @@ export default function RootLayout({ children }) {
                             <div className="hidden md:flex items-center">
                                 <a href='/' className="font-mitr text-sm uppercase text-red-400 py-2 px-2 hover:bg-indigo-500">Home</a>
                                 <a href='/about-us' className="text-sm uppercase mx-3 text-red-400 cursor-pointer hover:text-indigo-600">About Us</a>
+                                <a href='/contact-us' className="text-sm uppercase mx-3 text-red-400 cursor-pointer hover:text-indigo-600">Contact Us</a>
                                 <a href='/content' className="text-sm uppercase mx-3 text-red-400 cursor-pointer hover:text-indigo-600">Content</a>
                                 <a href='/tips' className="text-sm uppercase mx-3 text-red-400 cursor-pointer hover:text-indigo-600">Tips</a>
                             </div>
