@@ -32,7 +32,10 @@ export const posts = [
                 To empower teachers on their AI integration journey, the roadmap advocates for continuous learning. This section explores avenues for professional development, including workshops, webinars, and collaborative platforms where educators can share experiences and best practices.
                 <br/><br/>
                 <strong>Conclusion</strong><br/><br/>
-                "The Future Classroom: A Teacher's Roadmap to AI Integration" serves as a guiding light for educators navigating the tech frontier. By understanding the AI landscape, identifying integration opportunities, and implementing practical strategies, teachers can unlock the full potential of AI in education. This roadmap not only paves the way for a future-ready classroom but also encourages a community of educators committed to leveraging technology for the benefit of student learning.`
+                "The Future Classroom: A Teacher's Roadmap to AI Integration" serves as a guiding light for educators navigating the tech frontier. By understanding the AI landscape, identifying integration opportunities, and implementing practical strategies, teachers can unlock the full potential of AI in education. This roadmap not only paves the way for a future-ready classroom but also encourages a community of educators committed to leveraging technology for the benefit of student learning.
+                <br/><br/>
+                <strong>Bibliography:</strong> made by ChatGPT.
+                `
             },
             
         },
@@ -74,7 +77,9 @@ export const posts = [
                 <br/>
                 Geetha Venugopal, a high school computer science teacher at the American International School in Chennai, India, likens teaching students about AI tools to teaching students how to use the internet responsibly. In her classroom, she advises students to remember that the answers that ChatGPT gives may not be credible and accurate all the time, and to think critically about whether they should trust the answer, and then confirm the information through other primary resources. The goal is to help them “understand the importance of constantly working on their original critical thinking, problem solving and creativity skills.”
                 <br/>
-                <br/>`
+                <br/>
+                <strong>Bibliography:</strong> OpenAI - Teaching with AI.
+                `
             },
             
         },
@@ -152,7 +157,9 @@ export const posts = [
                 <br/>
                 Copilot is an excellent AI tool for teachers as it can quickly generate handouts that cover everything a teacher and a student need to know about a specific topic, concept, or subject area. The AI lesson planner at the core of Education Copilot is perfect for generating quality, structured lesson plans for any subject, lesson, or concept, making it an invaluable resource for teachers looking to save time and increase productivity. Copilot is an excellent AI tool for teachers looking to increase their productivity and streamline their teaching process. Its versatile features and customizable options make it an essential resource for educators of all levels and subjects.
                 <br/>
-                <br/>`
+                <br/>
+                <strong>Bibliography:</strong> Sendsteps - Top 10 AI Tools for Teachers.
+                `
             },
             
         },
