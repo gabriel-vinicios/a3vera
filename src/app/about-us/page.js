@@ -10,7 +10,7 @@ export default function AboutUs() {
         },
         {
             name: 'Felipe Murauskas Pascoinelli',
-            role: 'Computer Science / Responsible for making the design of the website',
+            role: 'Computer Science / Responsible for research and documentation of the website',
         },
         {
             name: 'Patrick da Silva Lara',
