@@ -8,8 +8,8 @@ export const posts = [
             date: 'Nov 16, 2023',
             datetime: '2023-11-21',
             author: {
-                name: 'Gabriel Vinicios',
-                role: 'Developer / CTO',
+                name: 'Ramon Barbosa Bouzon',
+                role: 'Researcher / CRO',
                 href: '#',
                 content: `In the ever-evolving landscape of education, the integration of Artificial Intelligence (AI) is revolutionizing the way teachers approach their craft. "The Future Classroom: A Teacher's Roadmap to AI Integration" serves as a comprehensive guide for educators eager to navigate this tech frontier. This article delves into key insights from the roadmap, exploring practical strategies and tips to seamlessly incorporate AI into teaching practices.
                 <br/><br/>

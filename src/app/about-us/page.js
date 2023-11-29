@@ -2,23 +2,23 @@ export default function AboutUs() {
     const people = [
         {
             name: 'Gabriel Vinicios',
-            role: 'Computer Science',
+            role: 'Computer Science / Responsible for making the website with Mateus Sousa da Paixão',
         },
         {
             name: 'Mateus Sousa da Paixão',
-            role: 'Computer Science',
+            role: 'Computer Science / Responsible for making the website with Gabriel Vinicios',
         },
         {
             name: 'Felipe Murauskas Pascoinelli',
-            role: 'Computer Science',
+            role: 'Computer Science / Responsible for making the design of the website',
         },
         {
             name: 'Patrick da Silva Lara',
-            role: 'Computer Science',
+            role: 'Computer Science / Responsible for making the prototype',
         },
         {
             name: 'Ramon Barbosa Bouzon',
-            role: 'Computer Science',
+            role: 'Computer Science / Responsible for making the articles',
         },
         
     ]
